@@ -1,5 +1,6 @@
 # first-wireframe-UX-Design
-<strong>Foi desenvolvido um Wireframe de Média Fidelidade</strong>
+<strong>Wireframe de Média Fidelidade</strong>
+<br>
 Foi feito um Wireframe de Média Fidelidade com o intuito de criar uma Landing Page Loja de Moda.
 <br><br>
 <img src="Home.png">
